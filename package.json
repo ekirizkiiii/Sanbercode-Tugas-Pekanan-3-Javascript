@@ -1,0 +1,22 @@
+{
+  "name": "sanbercode-tugas-pekanan-3-javascript",
+  "version": "1.0.0",
+  "description": "[Sanbercode] Tugas Pekanan 3 Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekirizkiiii/Sanbercode-Tugas-Pekanan-3-Javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekirizkiiii/Sanbercode-Tugas-Pekanan-3-Javascript/issues"
+  },
+  "homepage": "https://github.com/ekirizkiiii/Sanbercode-Tugas-Pekanan-3-Javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
